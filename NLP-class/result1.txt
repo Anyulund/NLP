@@ -1,0 +1,71 @@
+Jake Ryan
+
+123-456—7890 l jake’éilsuedu l linkedin,com/in/jake | github,com/jake
+
+ 
+
+ 
+
+ 
+
+EDUCATION
+Southwestern University Georgetown, TX
+Bachelor of Arts in Computer Science, Minor in Business Aug: 2018 7 [Way 202]
+Blinn College Bryan, TX
+Associate ’3 in Liberal Arts Aug: 2014 7 [Way 2018
+EXPERIENCE
+Undergraduate Research Assistant June 2020 Present
+Tezas Aé‘M/I University College Station, TX
+
+- Developed a REST API using FastAPI and PostgreSQL to store data from learning management systems
+- Developed a full—stack web application using Flask, React, PostgreSQL and Docker to analyze GitHub data
+- Explored ways to visualize GitHub collaboration in a classroom setting
+Information Technology Support Specialist Sep. 2018 Present
+Southwestern University Georgetown, TX
+- Communicate with managers to set up campus computers used on campus
+- Assess and troubleshoot computer problems brought by students, faculty and staff
+
+- Maintain upkeep of computers, classroom equipment, and 200 printers across campus
+
+Artiﬁcial Intelligence Research Assistant May 2019 July 2019
+Southwestern University Georgetown, TX
+
+- Explored methods to generate video game dungeons based off of The Legend of Zelda
+
+Developed a game in Java to test the generated dungeons
+Contributed 50K+ lines of code to an established codebase via Git
+Conducted a human subject study to determine which video game dungeon generation technique is enjoyable
+
+Wrote an 8—page paper and gave multiple presentations on-campus
+
+Presented virtually to the World Conference on Computational Intelligence
+
+PROJECTS
+
+ 
+
+Gitlytics l Python, Flask, React, PostgreSQL, Dacker June 2020 Present
+- Developed a full—stack web application using with Flask serving a REST AP] with React as the frontend
+- Implemented GitHub OAuth to get data from user’s repositories
+- Visualized GitHub data to show collaboration
+
+- Used Celery and Redis for asynchronous tasks
+
+Simple Paintball l Spigot API, Java, Maven, TravisC], Git l\/Iay 2018 l\/Iay 2020
+- Developed a Minecraft server plugin to entertain kids during free time for a previous job
+- Published plugin to websites gaining 2K+ downloads and an average 4,5/5—star review
+- Implemented continuous delivery using TravisCI to build the plugin upon new a release
+
+- Collaborated with Minecraft server administrators to suggest features and get feedback about the plugin
+
+TECHNICAL SKILLS
+
+ 
+
+Languages: Java, Python, C/C++, SQL (Postgres), JavaScript, HTML/CSS, R
+
+Frameworks: React, Node,js, Flask, JUnit, WordPress, Material-UL FastAPI
+
+Developer Tools: Git, Docker, TravisCI, Google Cloud Platform, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse
+Libraries: pandas, NumPy, Matplotlib
+
