@@ -1,4 +1,4 @@
-# NLPmain
+# NLP
 This section is work in progress over work in NLP that I have been doing and expertmenting over the years. The final product will be organized by NLP tasks corresponding to each section. 
 
 ## Basic Tutorial Folder Contents 
