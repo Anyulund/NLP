@@ -10,5 +10,6 @@ This section is work in progress over work in NLP that I have been doing and exp
 * Gobot simple (RNN)
 * Worshop for Gobot (RNN)
 * Markov Chain Simple Bot 
-* Open Dialog Chatbot (DialoGPT)
+* Open Dialog Chatbot For Learning New Languages (DialoGPT)
+* Martin Luther King speech to test dialogue system. This file was obtained by using OCR. 
   
