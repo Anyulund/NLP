@@ -4,7 +4,8 @@ This section is work in progress over work in NLP that I have been doing and exp
 ## Basic Tutorial Folder Contents 
 This is NLP tutorial that was presented at Austin Big Data AI in 2020. It covers: 
 * Virtual environment and Colab setups for Anaconda, SparkNLP and Jupyter Notebook
-* 
+* Sentiment Analysis of Twitter comments using NLTk, BERT and Random Forest in Python and Spark NLP
+* Instructions how to scrape Twitter 
 
 ## Dialogue Folder Contents
 * Blender Chatbot (Transformer - Facebook AI)
@@ -18,3 +19,4 @@ This is NLP tutorial that was presented at Austin Big Data AI in 2020. It covers
 * Open Dialog Chatbot For Learning New Languages (DialoGPT)
 * Martin Luther King speech to test dialogue system. This file was obtained by using OCR. 
   
+... TO BE CONTINUED
